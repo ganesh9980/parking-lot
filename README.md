@@ -32,3 +32,7 @@ The following features can be added to the application in the future:
 1) Support for removing a parked vehicle from the parking lot.
 2) Support for multiple parking lots.
 3) Persist data between sessions by using a database or file storage.
+
+## Usage Example
+<img width="1680" alt="Screenshot 2023-04-29 at 3 10 39 AM" src="https://user-images.githubusercontent.com/45177819/235260184-2c520f3e-e69b-4788-8222-d4c525f6461d.png">
+
